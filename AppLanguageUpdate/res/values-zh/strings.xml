@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">你好，我的界面</string>
+    <string name="go">去</string>
+    <string name="back">返回</string>
+    <string name="save">保存</string>
+
+</resources>
